@@ -10,8 +10,8 @@ This is a simple address search application that uses the [ArcGIS REST JS API](h
 
 ## Required Dependencies
 
-- `npm install @esri/arcgis-rest-request`. Find API Reference info [here].(https://developers.arcgis.com/arcgis-rest-js/api-reference/arcgis-rest-request/)
-- `npm install @esri/arcgis-rest-geocoding`. Find API Reference info [here].(https://developers.arcgis.com/arcgis-rest-js/api-reference/arcgis-rest-geocoding/)
+- `npm install @esri/arcgis-rest-request`. Find API Reference info [here](https://developers.arcgis.com/arcgis-rest-js/api-reference/arcgis-rest-request/).
+- `npm install @esri/arcgis-rest-geocoding`. Find API Reference info [here](https://developers.arcgis.com/arcgis-rest-js/api-reference/arcgis-rest-geocoding/).
 
 ## Other Requirements
 
