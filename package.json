@@ -1,0 +1,17 @@
+{
+  "name": "code_attempt_three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Courtney Yatteau",
+  "license": "MIT",
+  "dependencies": {
+    "@esri/arcgis-rest-geocoding": "^4.0.2",
+    "@esri/arcgis-rest-request": "^4.0.4"
+  }
+}
