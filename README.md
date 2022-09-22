@@ -4,14 +4,14 @@ This is a simple address search application that uses the [ArcGIS REST JS API](h
 
 ## Goals
 
-- Primary: Show developers how to use ArcGIS REST JS API to access the geocoding service through a “Hello World” app.
-- Secondary: Show developers the power of our location services and how they can be accessed with the ArcGIS REST JS API.
+- **Primary**: Show developers how to use ArcGIS REST JS API to access the geocoding service through a “Hello World” app.
+- **Secondary**: Show developers the power of our location services and how they can be accessed with the ArcGIS REST JS API.
 
 
 ## Required Dependencies
 
-- `npm install @esri/arcgis-rest-request`. Find API Reference info [here](https://developers.arcgis.com/arcgis-rest-js/api-reference/arcgis-rest-request/)
-- `npm install @esri/arcgis-rest-geocoding`. Find API Reference info [here](https://developers.arcgis.com/arcgis-rest-js/api-reference/arcgis-rest-geocoding/)
+- `npm install @esri/arcgis-rest-request`. Find API Reference info [here].(https://developers.arcgis.com/arcgis-rest-js/api-reference/arcgis-rest-request/)
+- `npm install @esri/arcgis-rest-geocoding`. Find API Reference info [here].(https://developers.arcgis.com/arcgis-rest-js/api-reference/arcgis-rest-geocoding/)
 
 ## Other Requirements
 
