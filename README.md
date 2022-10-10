@@ -12,6 +12,9 @@ This is a simple address search application that uses the [ArcGIS REST JS API](h
  <img src="https://user-images.githubusercontent.com/112517097/194936343-26fdc6ab-37fa-4a88-baf4-efed09219159.jpg" alt="Watch the video" width="300" border="5" />
 </a>
 
+## CodePen Playground
+- Try out the [application](https://cyatteau.github.io/ArcGIS-REST-JS-search-address-codepen/)!
+
 ## Goals
 
 - **Primary**: Show developers how to use ArcGIS REST JS API to access the geocoding service through a “Hello World” app.
