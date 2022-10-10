@@ -1,6 +1,11 @@
 # ArcGIS REST JS: Search for an Address
 
-This is a simple address search application that uses the [ArcGIS REST JS API](https://developers.arcgis.com/arcgis-rest-js/api-reference/) to access the [geocoding service](https://developers.arcgis.com/documentation/mapping-apis-and-services/search/geocoding/).
+This is a simple address search application that uses the [ArcGIS REST JS API](https://developers.arcgis.com/arcgis-rest-js/api-reference/) to access the [geocoding service](https://developers.arcgis.com/documentation/mapping-apis-and-services/search/geocoding/). Upon entering an address, location coordinates are received.
+
+## Video Tutorial
+<a href="https://youtu.be/qJf0kkZoPqc" target="_blank">
+ <img src="https://user-images.githubusercontent.com/112517097/194936343-26fdc6ab-37fa-4a88-baf4-efed09219159.jpg" alt="Watch the video" width="300" border="5" />
+</a>
 
 ## Goals
 
