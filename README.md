@@ -33,6 +33,7 @@ This is a simple address search application that uses the [ArcGIS REST JS API](h
 </a>
 
 ## Blog Article <a name="blog"></a>
+Article on [dev.to](https://dev.to/c_yatteau/how-to-find-address-coordinates-using-nodejs-242f). Article on [Medium](https://t.co/3Nv0DFk4Pd).
 
 ## CodePen Playground <a name="codepen"></a>
 - Test out the <a href="https://cyatteau.github.io/ArcGIS-REST-JS-search-address-codepen/">application</a>! Be sure to follow directions under "Other Requirements" to get an API Key.
