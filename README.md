@@ -17,11 +17,6 @@ Table of Contents
 
 This is a simple address search application that uses the [ArcGIS REST JS API](https://developers.arcgis.com/arcgis-rest-js/api-reference/) to access the [geocoding service](https://developers.arcgis.com/documentation/mapping-apis-and-services/search/geocoding/). Upon entering an address, location coordinates are received.
 
-## Goals <a name="goals"></a>
-
-- **Primary**: Show developers how to use ArcGIS REST JS API to access the geocoding service through a “Hello World” app.
-- **Secondary**: Show developers the power of our location services and how they can be accessed with the ArcGIS REST JS API.
-
 ## Live Demo Clip <a name="clip"></a>
 
 <img src="https://user-images.githubusercontent.com/112517097/194944142-cb0d358c-03ea-4cee-b253-0b244fe2f94a.gif" width="1000" />
