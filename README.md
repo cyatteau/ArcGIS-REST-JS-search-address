@@ -4,7 +4,6 @@ Table of Contents
 ---------------------
 
  * [Description](#description)
- * [Goals](#goals)
  * [Live Demo Clip](#clip)
  * [Video Tutorial](#video)
  * [Blog Article](#blog)
